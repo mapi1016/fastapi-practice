@@ -1,0 +1,2 @@
+"""Simple FastAPI board application."""
+
